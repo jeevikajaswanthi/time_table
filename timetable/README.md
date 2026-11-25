@@ -8,7 +8,7 @@ To write a html webpage to display your slot timetable.
 ### STEP 1
 Create a Django-admin Interface.
 
-### STEP 2
+### STEP 2g
 Create a static folder and inert HTML code.
 
 ### STEP 3
@@ -127,7 +127,7 @@ Execute the program using runserver command.
 </html>'''
 
 ## OUTPUT
-![Alt text](<../time_table/Screenshot 2026-11-25 212941.png>)
+![output](output.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully
